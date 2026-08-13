@@ -1,4 +1,4 @@
-# SCT_CS_2
+# Password Strength Analyzer
 
 🔐 Password Strength Checker
 This is a simple Python tool that checks the strength of a password based on multiple criteria such as:
